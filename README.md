@@ -1,4 +1,4 @@
-# Olá! Eu sou João Pedro 👋
+# Olá! Me chamo João Pedro 👋
 
 🎓 Atualmente sou graduando em **Análise e Desenvolvimento de Sistemas**  
 
