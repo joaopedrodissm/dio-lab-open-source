@@ -2,11 +2,10 @@
 
 🎓 Atualmente sou graduando em **Análise e Desenvolvimento de Sistemas**  
 
-💼 Atualmente atuo com **desenvolvimento de sites** e **suporte para sistema de importação** na **Saascomex**.  
+💼 Atualmente trabalho com **suporte para sistema de importação** na **Saascomex**.  
 
-📚 Estudando continuamente para me aprimorar em **desenvolvimento de software**.  
+📚 Estudando para me aprimorar na área de **desenvolvedor**.  
 
-🎻 Apaixonado por rock e tecnologia!
 
 ---
 
@@ -20,7 +19,7 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
 
 ## 🛠️ Tecnologias e Habilidades
 
-Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
+Aqui estão algumas das ferramentas e tecnologias com as quais trabalho ou já trabalhei:
 
 - **Linguagens**: JavaScript, HTML, CSS, PHP
 - **Frameworks**: .NET
