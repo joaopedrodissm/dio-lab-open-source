@@ -4,7 +4,7 @@
 
 💼 Atualmente atuo com **desenvolvimento de sites** e **suporte para sistema de importação** na **Saascomex**.  
 
-📚 Estudando continuamente para me aprimorar em **RPA (Robotic Process Automation)** e **desenvolvimento de software**.  
+📚 Estudando continuamente para me aprimorar em **desenvolvimento de software**.  
 
 🎻 Apaixonado por rock e tecnologia!
 
