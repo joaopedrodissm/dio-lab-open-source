@@ -1,11 +1,8 @@
 # Olá! Me chamo João Pedro 👋
 
-🎓 Atualmente sou graduando em **Análise e Desenvolvimento de Sistemas**  
+🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na UniCesumar e trabalhando com o desenvolvimento de projetos web e mobile.
 
-💼 Atualmente trabalho com **suporte para sistema de importação** na **Saascomex**.  
-
-📚 Estudando para me aprimorar na área de **desenvolvedor**.  
-
+💼 Atuei na SAASCOMEX - Sistemas para Comércio Exterior (sistema ERP para importação/exportação), onde fornecia suporte aos usuários na utilização do sistema, além de auxiliar no desenvolvimento de testes unitários e na identificação e correção de bugs. Além disso, na empresa Full Connection, atuava como desenvolvedor de sistemas web e mobile, utilizando HTML, CSS, JavaScript, PHP e MySQL.
 
 ---
 
@@ -13,7 +10,7 @@
 
 Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
 
-- **Gerador de Cartões de Visita**: Gerador automático de cartões/assinatura para emails corporativos, incluindo a foto, nome, email e número de contato.
+- **Gerador de Cartões Corporativos**: Gerador automático de cartões/assinatura para emails corporativos, incluindo a foto, nome, email e número de contato.
 
 ---
 
@@ -22,7 +19,7 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
 Aqui estão algumas das ferramentas e tecnologias com as quais trabalho ou já trabalhei:
 
 - **Linguagens**: JavaScript, HTML, CSS, PHP
-- **Frameworks**: .NET
+- **Plataformas**: Apache Cordova Android
 - **Outros**: Git, MySQL
 
 ---
